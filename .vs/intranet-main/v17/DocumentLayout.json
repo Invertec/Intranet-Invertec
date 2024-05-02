@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\app\\Http\\Livewire\\Valores.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Livewire\\Valores.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\app\\Providers\\RouteServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\RouteServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\resources\\views\\livewire\\valores.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\livewire\\valores.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Valores.php",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\app\\Http\\Livewire\\Valores.php",
+              "RelativeDocumentMoniker": "app\\Http\\Livewire\\Valores.php",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\app\\Http\\Livewire\\Valores.php",
+              "RelativeToolTip": "app\\Http\\Livewire\\Valores.php",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-04-30T21:32:28.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteServiceProvider.php",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\app\\Providers\\RouteServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\RouteServiceProvider.php",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\app\\Providers\\RouteServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\RouteServiceProvider.php",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-04-30T21:22:55.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "valores.blade.php",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\resources\\views\\livewire\\valores.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\livewire\\valores.blade.php",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\Proyectos\\intranet-main\\resources\\views\\livewire\\valores.blade.php",
+              "RelativeToolTip": "resources\\views\\livewire\\valores.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-04-30T21:20:17.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

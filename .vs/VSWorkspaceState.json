@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Livewire",
+    "\\resources\\css",
+    "\\resources\\views",
+    "\\resources\\views\\livewire",
+    "\\routes",
+    "\\tests\\Feature"
+  ],
+  "SelectedNode": "\\app",
+  "PreviewInSolutionExplorer": false
+}
